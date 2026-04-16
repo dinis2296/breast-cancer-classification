@@ -8,12 +8,13 @@ The goal is to build a reliable classification model with a strong focus on reca
 
 ## Models Used
 - Logistic Regression
+- KNN
 - Random Forest
 - Gradient Boosting
 
 ## Model Results
 
-![Model_Results](images/model_results.png)
+![Model_Results](images/model_results_wKNN.png)
 
 ## Key Insights
 - The strong performance of Logistic Regression suggests that the relationship between features and the target variable is largely linear.
